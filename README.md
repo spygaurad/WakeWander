@@ -35,7 +35,7 @@ Database (Supabase PostgreSQL)
 
 ### 1. Clone Repository
 ```bash
-git clone https://github.com/yourusername/wakewander.git
+git clone https://github.com/spygaurad/WakeWander
 cd wakewander
 ```
 
